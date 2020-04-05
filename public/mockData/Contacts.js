@@ -14,7 +14,7 @@ const mockContacts = [
     phone_number: "0999-995-6595",
     category: "SS",
     city: "Seoul",
-    img_url: "../../img/Hae-in.png",
+    img_url: "../../img/Hae-In.png",
     favorites: "yes",
   },
   {
@@ -23,7 +23,7 @@ const mockContacts = [
     phone_number: "0999-995-6595",
     category: "S",
     city: "Seoul",
-    img_url: "../../img/Yoon-ho.png",
+    img_url: "../../img/Yoon-Ho.png",
     favorites: "yes",
   },
 ];
