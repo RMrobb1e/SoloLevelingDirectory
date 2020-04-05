@@ -34,7 +34,7 @@ class MainApp extends LitElement {
 
     let newArray = immutablePush(this.allContacts, {
       ...contact,
-      img_url: "../../img/contacts.jpg",
+      img_url: "../../img/contact.jpg",
     });
     this.allContacts = newArray;
     this.togglePopup();
