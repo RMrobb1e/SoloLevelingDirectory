@@ -191,7 +191,7 @@ class FormPopup extends LitElement {
                 </div>
 
                 <div class="form-group category">
-                  <label for="category">Category</label>
+                  <label for="category">Hunter Rank</label>
                   <input type="text" name="category" autocomplete="off" on-keyup="${
                     this.onChange
                   }" >
